@@ -88,6 +88,7 @@ public class stepDefinition extends Utils {
 		System.out.println("latest1 commit");
 		System.out.println("latest2 commit");
 		System.out.println("latest3 changes");
+		System.out.println("user3 changes");
 
 
 
