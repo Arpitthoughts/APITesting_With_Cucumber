@@ -17,6 +17,7 @@ public class Hooks {
 		m.user_calls_with_http_request("Addplaceapi", "post");
 		
 		m.verify_place_id_created_maps_to_using("Arpit", "Getplaceapi");
+		System.out.println("user3 hook commit");
 		}
 		
 		
