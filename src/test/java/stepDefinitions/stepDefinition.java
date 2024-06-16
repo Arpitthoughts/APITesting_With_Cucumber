@@ -86,6 +86,7 @@ public class stepDefinition extends Utils {
 		req=given().spec(setRequestSpecification()).body(TestDataBuild.deletePlacePayload(place_id));
 		System.out.println("user1 changes");
 		System.out.println("latest1 commit");
+		System.out.println("latest2 commit");
 
 
 
