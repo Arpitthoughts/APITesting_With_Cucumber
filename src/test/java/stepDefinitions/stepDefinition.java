@@ -85,6 +85,7 @@ public class stepDefinition extends Utils {
 		// Write code here that turns the phrase above into concrete actions
 		req=given().spec(setRequestSpecification()).body(TestDataBuild.deletePlacePayload(place_id));
 		System.out.println("user2 changes");
+		System.out.println("we are working Job posting automation project");
 
 
 
